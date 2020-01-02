@@ -1,0 +1,10 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#myDIV header{
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bold;
+}
