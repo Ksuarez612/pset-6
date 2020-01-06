@@ -158,4 +158,4 @@ document.getElementById("input_item").addEventListener("keyup", function(event) 
   if (event.keyCode === 13) {
     document.getElementById("add_button").click();
   }
-})
+});
